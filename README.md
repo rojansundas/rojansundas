@@ -2,32 +2,44 @@
 
 🎯 **QA Engineer**
 
-I am a QA Engineer with hands-on experience in **automation testing and performance testing**, supported by solid experience in **manual testing, test case creation, and bug tracking**. I focus on improving software quality by validating functionality, performance, and reliability.
+I am a QA Engineer with hands-on experience in **automation testing, performance testing, and manual testing**. I work with **PyTest-based automation frameworks**, integrate **Allure reports**, and have experience working on **hybrid data-driven frameworks**. I focus on ensuring software quality, reliability, and performance through well-structured QA practices.
 
 ---
 
 ## 🧪 Skills & Expertise
 
-- **Automation Testing**
-  - Selenium (basic automation scripts)
-- **Performance Testing**
-  - Load & stress testing (practice-level)
-  - Performance analysis and reporting
-- **Manual Testing**
-  - Functional, Regression, Smoke & Sanity Testing
-  - Test Case Design & Execution
-- **Defect Management**
-  - Bug reporting with severity & priority
-- **QA Concepts**
-  - SDLC & STLC
-  - Test Plans, Test Scenarios & Test Reports
+### 🔹 Automation Testing
+- PyTest framework
+- Selenium WebDriver
+- Hybrid Framework (Data-driven + Modular)
+- Data handling using external files (CSV/Excel)
+- Test execution and reporting with **Allure**
+
+### 🔹 Performance Testing
+- Load and stress testing (practice-level)
+- Performance analysis (response time, throughput, errors)
+
+### 🔹 Manual Testing
+- Test Case Design & Execution
+- Functional, Regression, Smoke & Sanity Testing
+- Exploratory Testing
+
+### 🔹 Defect Management
+- Bug reporting with severity & priority
+- Clear reproduction steps and documentation
+
+### 🔹 QA Concepts
+- SDLC & STLC
+- Test Plans, Test Scenarios, Test Reports
 
 ---
 
 ## 🛠 Tools & Technologies
 
 - Selenium  
-- JMeter (Performance Testing – practice)  
+- PyTest  
+- Allure Reports  
+- JMeter (Performance Testing)  
 - Jira  
 - Postman (API Testing – basic)  
 - Git & GitHub  
@@ -38,14 +50,17 @@ I am a QA Engineer with hands-on experience in **automation testing and performa
 ## 📂 QA Projects
 
 ### 🔹 E-commerce Website Testing (Daraz.com)
-- Performed **manual, regression, and exploratory testing**
-- Designed and executed comprehensive test cases
-- Reported and tracked defects using QA best practices
+- Conducted end-to-end **manual testing** on major modules
+- Designed and executed structured test cases
+- Reported and tracked defects following QA standards
+- Performed regression testing after fixes
 
-### 🔹 Automation & Performance Testing Practice
-- Created basic **Selenium automation scripts**
-- Conducted **performance testing using JMeter** on sample web applications
-- Analyzed response time, throughput, and error rates
+### 🔹 Automation & Performance Testing Projects
+- Developed **PyTest-based Selenium automation framework**
+- Implemented **hybrid data-driven approach**
+- Generated detailed test reports using **Allure**
+- Executed **performance tests using JMeter**
+- Analyzed system behavior under load
 
 ---
 
@@ -58,8 +73,8 @@ I am a QA Engineer with hands-on experience in **automation testing and performa
 
 ## 🌱 Currently Improving
 
-- Selenium Automation Frameworks  
-- Advanced Performance Testing  
+- Advanced PyTest & Selenium frameworks  
+- API Automation  
 - CI/CD integration for QA  
 
 ---
@@ -69,3 +84,7 @@ I am a QA Engineer with hands-on experience in **automation testing and performa
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: linkedin.com/in/yourprofile  
 - 🌐 GitHub: github.com/yourusername  
+
+---
+
+⭐ *Open to QA Engineer roles focused on automation, performance, and quality-driven development.*
