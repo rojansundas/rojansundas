@@ -81,9 +81,9 @@ I am a QA Engineer with hands-on experience in **automation testing, performance
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: linkedin.com/in/yourprofile  
-- 🌐 GitHub: github.com/yourusername  
+- 📧 Email: sundasrojan@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/rojansundas
+- 🌐 GitHub: https://github.com/rojansundas
 
 ---
 
